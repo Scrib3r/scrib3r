@@ -2,7 +2,15 @@
 
 ## About me 👨‍💻
 
-I'm Nikita Namestnikov a **backend developer**.
+I'm Nikita Namestnikov. My specialization is **Backend Development**, and my primary programming language is _Node.JS_.
+
+## My Tech Stack 💻
+### Primary Technologies
+<img src="https://img.shields.io/badge/-Node.JS-green?logo=node.js&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge"/>
+
+### DataBases
+<img src="https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=for-the-badge"/> 
+
 
 <!--
 **Scrib3r/scrib3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
